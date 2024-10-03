@@ -1,4 +1,5 @@
-
+# AutoCAD Solar Panel Plugin with C#
+### C# Visual Studio Project Template for an AutoCAD Plugin.
 This repository provides a C# Visual Studio Project Template for developing AutoCAD plugins. These templates enable you to quickly start a C# project for an AutoCAD plugin in Visual Studio. They are designed to automatically launch the specified version of AutoCAD and load the assembly when debugging begins.
 
 The AutoCAD R24 Csharp Project Template is intended for use with AutoCAD versions prior to 2025 (targeting .NET Framework).
